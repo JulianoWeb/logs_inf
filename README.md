@@ -23,8 +23,3 @@ Monitor simples feito em Python com interface gráfica nativa.
 pip install psutil
 
 python main.py
-
-
-
-
-
